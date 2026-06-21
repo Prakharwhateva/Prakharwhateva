@@ -1,17 +1,16 @@
 <p align="center">
-  <img src=""https://github.com/Prakharwhateva/Prakharwhateva/blob/main/github.jpg?raw=true"" width="100%">
+  <img src="https://github.com/Prakharwhateva/Prakharwhateva/blob/main/github.jpg?raw=true" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 , I'm Your Name</h1>
+<h1 align="center">Hi 👋 , I'm Prakhar</h1>
 
 <p align="center">
-  <strong>Aspiring Data Scientist | Machine Learning Engineer</strong>
+  <strong>Data Scientist | Machine Learning & Computer Vision Engineer</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghvc/?username=Prakharwhateva&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
-
 ---
 # Hi there, I'm Prakhar! 
 
