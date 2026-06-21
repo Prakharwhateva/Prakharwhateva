@@ -13,26 +13,6 @@ I am a passionate **Data Science and Machine Learning enthusiast** and a third-y
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C++, SQL |
-| **AI / Machine Learning** | Scikit-Learn, TensorFlow/PyTorch, Pandas, NumPy |
-| **Video Editing** | Adobe Premiere Pro, After Effects |
-| **Tools & Platforms** | Git, GitHub, VS Code, AWS |
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=visual_studio_dark" alt="Prakhar's GitHub Stats" height="180M" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=your-username&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180M" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
