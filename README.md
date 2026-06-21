@@ -1,3 +1,18 @@
+<p align="center">
+  <img src=""C:\Users\prakh\Downloads\github.jpg"" alt="Tech Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋 , I'm Your Name</h1>
+
+<p align="center">
+  <strong>Aspiring Data Scientist | Machine Learning Engineer</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+</p>
+
+---
 # Hi there, I'm Prakhar! 
 
 I am a passionate **Data Science and Machine Learning enthusiast** and a third-year undergraduate student based in Varanasi, India. I love leveraging data, building predictive models, and exploring the intersection of AI and real-world engineering challenges. Beyond tech, you'll often find me behind a camera lens or crafting cinematic edits.
