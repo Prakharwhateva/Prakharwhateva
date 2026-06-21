@@ -7,10 +7,6 @@
 <p align="center">
   <strong>Data Scientist | Machine Learning & Computer Vision Engineer</strong>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=Prakharwhateva&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-</p>
 ---
 
 ### 🚀 About Me
