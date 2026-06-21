@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""https://github.com/Prakharwhateva/Prakharwhateva/blob/main/github.jpg?raw=true"" alt="Tech Banner" width="100%">
+  <img src=""https://github.com/Prakharwhateva/Prakharwhateva/blob/main/github.jpg?raw=true"" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 , I'm Your Name</h1>
