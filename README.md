@@ -1,4 +1,4 @@
-# Hi there, I'm Prakhar! 👋
+# Hi there, I'm Prakhar! 
 
 I am a passionate **Data Science and Machine Learning enthusiast** and a third-year undergraduate student based in Varanasi, India. I love leveraging data, building predictive models, and exploring the intersection of AI and real-world engineering challenges. Beyond tech, you'll often find me behind a camera lens or crafting cinematic edits.
 
@@ -13,18 +13,6 @@ I am a passionate **Data Science and Machine Learning enthusiast** and a third-y
 
 ---
 
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-⚡ *“The best way to predict the future is to invent it.”*
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prakhar_whateva) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakhar.jain.phe23@itbhu.ac.in) 
 
